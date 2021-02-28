@@ -1,0 +1,8 @@
+name: "logicjs"
+displayName: "LogicToJs"
+author: "Minxyzgo"
+main: "logic.conversion.Main"
+description: "Logic instructions are interpreted as js code"
+version: 0.1
+minGameVersion: 124
+
